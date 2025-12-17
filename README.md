@@ -10,7 +10,7 @@ I love making cool stuff with code, and I'm constantly teaching myself new thing
 
 ## My Story
 
-Growing up, video games, computers, and the internet fascinated me endlessly. I always found learning to be fun and performed well in school. In middle school, I had my first computer classes (and robotics club), gaining experience with Microsoft Office, Adobe Photoshop and InDesign, and even making basic web pages with HTML.
+While growing up, video games, computers, and the internet fascinated me endlessly. I always found learning to be fun and performed well in school. In middle school, I had my first computer classes (and robotics club), gaining experience with Microsoft Office, Adobe Photoshop and InDesign, and even making basic web pages with HTML.
 
 During high school, I volunteered at my elementary school's art club and continued with computer classes, eventually presenting a graphics design project in front of a panel as part of Future Business Leaders of America. Thanks to the dual enrollment program, I graduated high school Summa Cum Laude with an A.A. degree from Polk State College in 2021.
 
